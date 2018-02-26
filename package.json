@@ -1,0 +1,12 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "Test how to use monorepos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-dura/monorepo.git"
+  },
+  "devDependencies": {
+    "lerna": "^2.9.0"
+  }
+}
